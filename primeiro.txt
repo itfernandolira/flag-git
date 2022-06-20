@@ -1,1 +1,2 @@
-primeiro ficheiro com alterações
+primeiro ficheiro com alterações diversas
+função para converter numeros binários
